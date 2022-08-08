@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oshmita Sarkar
-- 👀 I’m interested in python, machine learning and data science
+- 👀 I’m interested in python, R, machine learning and data science
 - 🌱 I’m currently learning the above
 - 💞️ I’m looking to collaborate on projects concerning my interests
 - 📫 E-mail me on oshmitas.26@gmail.com
